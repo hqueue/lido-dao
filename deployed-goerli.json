@@ -17,7 +17,7 @@
   ],
   "daoTemplateDeployTx": "0xe766e877ae57d9a9d08ba14d746558f51264cbb19f3df16ec649e91b775774db",
   "lidoBaseDeployTx": "0x3a4bcd8042142b44267b0ed0482ff36085d0459cf8915f8d2fe5f0a6705bd81b",
-  "oracleBaseDeployTx": "0x7e4b115b347bd2a29e659f72aa6e1ac7d8b52da031f11cd7ea1a7abbb5a3d10c",
+  "oracleBaseDeployTx": "0xb242ec97a916ecaa9e9fedcf3db6a4eeb59c76e39ca5138f9bf5a2e7af61f0ee",
   "nodeOperatorsRegistryBaseDeployTx": "0x498386b2dd10d40b172dcc9f96592cb8743ea57191bc43858ba8c17f0a1a8ce0",
   "daoTemplateAddress": "0x5B337137043EE00D0927e496D3E942c21B7D03B4",
   "app:lido": {
@@ -30,7 +30,7 @@
     "proxyAddress": "0x5feB011F04Ec47cA42E75F5AC2bea4C50A646054"
   },
   "app:oracle": {
-    "baseAddress": "0xa892CCce358748429188b1554C3999a552a99cD8",
+    "baseAddress": "0xC0acFc2F4AA264E844C06Deb24D0A409c81e5392",
     "ipfsCid": "QmPWVU6GaMRhiUhR5SSXxMWuQ9jxqSv1d6K2afyyaJT1Rb",
     "contentURI": "0x697066733a516d505756553647614d52686955685235535358784d577551396a787153763164364b3261667979614a54315262",
     "name": "oracle",
